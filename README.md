@@ -1,5 +1,9 @@
 # 企业开源洞察
 
+## exmaple
+
+![visualization](eoss_observe/visualization.png)
+
 ## 项目结构
 
 ```text
